@@ -1,0 +1,7 @@
+order_id,customer_id,product,category,price,quantity,order_date
+1001,C001,Laptop,Electronics,800,1,2024-01-10
+1002,C002,Mouse,Electronics,20,2,2024-01-11
+1003,C003,Shoes,Fashion,60,1,2024-01-12
+1004,C001,Keyboard,Electronics,50,1,2024-01-13
+1005,C004,T-shirt,Fashion,25,3,2024-01-14
+1006,C005,Headphones,Electronics,120,1,2024-01-15
